@@ -1,0 +1,11 @@
+[package]
+name = "mic-cam-syncer"
+version = "0.1.0"
+edition = "2021"
+description = "Rust based application that syncs the microphone and web cam status to a REST API endpoint"
+repository = "https://github.com/DevSecNinja/mic-cam-syncer"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
